@@ -43,4 +43,4 @@ resources:
   disk_size_gb: 10
 
 beta_settings:
-  cloud_sql_instances: light-reality-295705:us-central1:fundatabase
+  cloud_sql_instances: light-reality-295705:us-central1:newdb
